@@ -1,0 +1,46 @@
+Nome do projeto: JavaTestCalc
+
+Versão: 1.0
+
+Data: 2023-11-15
+
+Autor: Gabriel Alexandre Rosa
+
+Objetivo:
+
+Este projeto tem como objetivo testar os métodos de adição, subtração, multiplicação e divisão da classe Calculadora.
+
+Instruções de uso:
+
+Para executar o projeto, execute o seguinte comando:
+
+javac JavaTestMain.java
+java JavaTestMain
+Resultados esperados:
+
+Os testes realizados foram projetados para verificar o comportamento dos métodos de adição, subtração, multiplicação e divisão da classe Calculadora. Os resultados esperados para cada cenário de teste são os seguintes:
+
+Cenário 1: Somando dois números inteiros positivos, o resultado deve ser positivo.
+Cenário 2: Somando um número positivo e outro negativo, o resultado deve ser negativo.
+Cenário 3: Somando dois números inteiros negativos, o resultado deve ser negativo.
+Cenário 4: Somando um número positivo com zero, o resultado deve ser o número positivo.
+Cenário 5: Somando um número negativo com zero, o resultado deve ser o número negativo.
+Observações:
+
+O cenário 4 da divisão retornará um erro, pois o denominador é igual a zero.
+Testes futuros:
+
+Testar a divisão com números reais.
+Testar a divisão com números decimais.
+Testar a divisão com números decimais e negativos.
+Conclusão:
+
+Os testes realizados mostraram que os métodos de adição, subtração, multiplicação e divisão da classe Calculadora estão funcionando corretamente.
+
+Mudanças realizadas:
+
+Removido o texto "O resultado esperado é:".
+Reescrito o texto dos resultados esperados para ser mais genérico e descritivo.
+Adicionado uma observação sobre o cenário 4 da divisão.
+Adicionado uma seção sobre testes futuros.
+Adicionado uma conclusão.
